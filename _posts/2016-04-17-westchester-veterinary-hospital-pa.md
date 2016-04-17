@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: We treat your pets as if they were our own
-datePublished: '2016-04-17T20:19:54.306Z'
-dateModified: '2016-04-17T20:15:43.012Z'
+datePublished: '2016-04-17T20:31:25.566Z'
+dateModified: '2016-04-17T20:27:16.666Z'
 title: 'Westchester Veterinary Hospital, PA'
 author: []
 sourcePath: _posts/2016-04-17-westchester-veterinary-hospital-pa.md
