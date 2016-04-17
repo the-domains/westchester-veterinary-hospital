@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: We treat your pets as if they were our own
-datePublished: '2016-04-17T20:31:25.566Z'
-dateModified: '2016-04-17T20:27:16.666Z'
+description: 2816 Westchester Drive
+datePublished: '2016-04-17T20:37:23.222Z'
+dateModified: '2016-04-17T20:36:05.459Z'
 title: 'Westchester Veterinary Hospital, PA'
 author: []
 sourcePath: _posts/2016-04-17-westchester-veterinary-hospital-pa.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60f0fd83-547b-47b4-be30-d9e2963252d4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/118b8c03-7f28-4763-9b63-593ed240963f.jpg)
 
 # [Westchester Veterinary Hospital, PA][0]
 
@@ -36,9 +35,10 @@ High Point, NC 27262
 [westchestervet@northstate.net][1]
 
 _We treat your pets as if they were our own_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e06fd15c-f246-4c00-b2a1-873b37a95a4e.gif)
 
 Conveniently located in south west High Point at the intersection of Westchester Drive and English Road/National Highway
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e06fd15c-f246-4c00-b2a1-873b37a95a4e.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a8f865f494b02092578577a288ae6737e8e6016.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91450c4a-90a1-4189-b083-21e7359e4a57.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08f64b20-3aea-417a-9303-b0d9f3c3ac04.jpg)
 
