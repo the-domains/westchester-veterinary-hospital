@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 2816 Westchester Drive
-datePublished: '2016-04-17T20:37:23.222Z'
-dateModified: '2016-04-17T20:36:05.459Z'
+datePublished: '2016-04-18T00:00:14.370Z'
+dateModified: '2016-04-17T20:37:29.437Z'
 title: 'Westchester Veterinary Hospital, PA'
 author: []
 sourcePath: _posts/2016-04-17-westchester-veterinary-hospital-pa.md
